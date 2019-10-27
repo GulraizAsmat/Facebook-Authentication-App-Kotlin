@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FbAuthWithkotlin</string>
+    <string name="facebook_app_id">409249449716469</string>
+    <string name="fb_login_protocol_scheme">fb409249449716469</string>
+
+</resources>
